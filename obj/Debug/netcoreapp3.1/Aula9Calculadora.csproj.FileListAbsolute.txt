@@ -1,0 +1,13 @@
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula9Calculadora\bin\Debug\netcoreapp3.1\Aula9Calculadora.exe
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula9Calculadora\bin\Debug\netcoreapp3.1\Aula9Calculadora.deps.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula9Calculadora\bin\Debug\netcoreapp3.1\Aula9Calculadora.runtimeconfig.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula9Calculadora\bin\Debug\netcoreapp3.1\Aula9Calculadora.runtimeconfig.dev.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula9Calculadora\bin\Debug\netcoreapp3.1\Aula9Calculadora.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula9Calculadora\bin\Debug\netcoreapp3.1\Aula9Calculadora.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula9Calculadora\obj\Debug\netcoreapp3.1\Aula9Calculadora.csprojAssemblyReference.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula9Calculadora\obj\Debug\netcoreapp3.1\Aula9Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula9Calculadora\obj\Debug\netcoreapp3.1\Aula9Calculadora.AssemblyInfoInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula9Calculadora\obj\Debug\netcoreapp3.1\Aula9Calculadora.AssemblyInfo.cs
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula9Calculadora\obj\Debug\netcoreapp3.1\Aula9Calculadora.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula9Calculadora\obj\Debug\netcoreapp3.1\Aula9Calculadora.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula9Calculadora\obj\Debug\netcoreapp3.1\Aula9Calculadora.genruntimeconfig.cache
